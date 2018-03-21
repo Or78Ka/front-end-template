@@ -21,6 +21,7 @@ const linkList6 = document.querySelector('#overlay6');
 
 
 
+
 clickedImage1.addEventListener('click', () => {
   cardName1.style.display = "none";
   linkList1.style.display = "block";
@@ -143,7 +144,6 @@ clickedImage6.addEventListener('mouseover', () => {
   linkList5.style.display = "none";
 }
 );
-
 
 
 clickedImage1.addEventListener('click', () => {
